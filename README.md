@@ -1,6 +1,6 @@
 # ls8-emulator
 
-The LS8 is a ficticious 8-bit microcomputer with 8-bit addressing, allowing for 256 bytes of RAM.
+The LS8 is a fictitious 8-bit microcomputer with 8-bit addressing, allowing for 256 bytes of RAM.
 
 See the instruction set [specifications](LS8-spec.md) to get a better idea as to what this microcomputer can do.
 
