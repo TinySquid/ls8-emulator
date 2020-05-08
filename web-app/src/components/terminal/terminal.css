@@ -1,0 +1,11 @@
+.terminal textarea {
+  /* Emulator a "terminal" window... */
+  background: black;
+  color: rgb(247, 247, 247);
+
+  /* Looks better with some padding */
+  padding: 5px;
+
+  /* Don't want to be able to resize the terminal */
+  resize: none;
+}
